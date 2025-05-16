@@ -38,6 +38,7 @@ La Rozeî bridges the gap between boutique fashion and scalable technology:
 - **Shopping Cart & Checkout**: Efficient cart management and streamlined checkout process.
 - **Order Management**: Track and manage customer orders with real-time updates.
 - **Product Catalog**: Dynamic product listings with search and filter capabilities.
+- **Analytics Dashboard**: Gain insights into sales, user activity, and product performance through a built-in analytics panel for admins.
 
 ---
 
